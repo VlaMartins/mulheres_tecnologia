@@ -47,3 +47,8 @@ button{
     color: rgb(255, 0, 132);
 
 }
+
+footer{
+     position: fixed;
+     bottom: 0;
+}
